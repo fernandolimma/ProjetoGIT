@@ -1,0 +1,1 @@
+Olá! Vamos usar o GIT pela primeira vez.
